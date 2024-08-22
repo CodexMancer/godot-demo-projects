@@ -10,11 +10,15 @@ Showcased features are:
   - The difference is demonstrated with a moving fog volume.
 - Global density adjustment. With FogVolume nodes that have a positive density,
   it's possible to apply volumetric fog only in specific areas.
+- Custom FogVolume shader with real-time 3D noise
+  ([provided by alghost](https://godotshaders.com/shader/moving-gradient-noise-fog-mist-for-godot-4/)).
 
 Language: GDScript
 
-Renderer: Vulkan Clustered
+Renderer: Forward+
+
+Check out this demo on the asset library: https://godotengine.org/asset-library/asset/2754
 
 ## Screenshots
 
-![Screenshot](screenshots/volumetric_fog.png)
+![Screenshot](screenshots/volumetric_fog.webp)

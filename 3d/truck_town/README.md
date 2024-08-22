@@ -19,18 +19,18 @@ brake/reverse (this also temporarily stops acceleration).
 
 Language: GDScript
 
-Renderer: Forward+ on desktop, Mobile on mobile
+Renderer: Forward+
 
-Check out this demo on the asset library: https://godotengine.org/asset-library/asset/524
+Check out this demo on the asset library: https://godotengine.org/asset-library/asset/2752
 
 ## How does it work?
 
 The base vehicle uses a
-[`VehicleBody`](https://docs.godotengine.org/en/latest/classes/class_vehiclebody.html)
+[`VehicleBody3D`](https://docs.godotengine.org/en/latest/classes/class_vehiclebody3d.html)
 node. The trailer truck is tied together using a
 [`ConeJointTwist`](https://docs.godotengine.org/en/latest/classes/class_conetwistjoint.html)
 node, and the tow truck is tried together using a chain made of
-[`RigidBody`](https://docs.godotengine.org/en/latest/classes/class_rigidbody.html)
+[`RigidBody3D`](https://docs.godotengine.org/en/latest/classes/class_rigidbody3d.html)
 nodes which are pinned together using
 [`PinJoint`](https://docs.godotengine.org/en/latest/classes/class_pinjoint.html) nodes.
 

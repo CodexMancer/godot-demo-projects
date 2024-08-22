@@ -7,8 +7,8 @@ Language: GDScript
 
 Renderer: Compatibility
 
-Check out this demo on the asset library: https://godotengine.org/asset-library/asset/519
+Check out this demo on the asset library: https://godotengine.org/asset-library/asset/2723
 
 ## Screenshots
 
-![Screenshot](screenshots/nav_astar.png)
+![Screenshot](screenshots/navigation_astar.webp)

@@ -1,6 +1,6 @@
 [gd_resource type="Theme" load_steps=7 format=3 uid="uid://da4noqsij73it"]
 
-[ext_resource type="FontFile" uid="uid://bk80b6owsrioj" path="res://gui/kenney_mini_square.ttf" id="1_f0sjs"]
+[ext_resource type="FontFile" uid="uid://wqrno8lackrm" path="res://gui/kenney_mini_square.ttf" id="1_f0sjs"]
 
 [sub_resource type="StyleBoxFlat" id="1"]
 content_margin_left = 6.0
@@ -70,7 +70,7 @@ Button/colors/font_color_hover = Color(0.88, 0.8845, 0.8965, 1)
 Button/colors/font_color_pressed = Color(0.411765, 0.611765, 0.909804, 1)
 Button/colors/icon_color_hover = Color(1.15, 1.15, 1.15, 1)
 Button/colors/icon_color_pressed = Color(0.4715, 0.7015, 1.0465, 1)
-Button/constants/hseparation = 2
+Button/constants/h_separation = 2
 Button/fonts/font = ExtResource("1_f0sjs")
 Button/styles/disabled = SubResource("1")
 Button/styles/focus = SubResource("2")

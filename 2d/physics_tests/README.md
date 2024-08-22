@@ -12,9 +12,9 @@ They can be used for different purpose:
 
 Language: GDScript
 
-Renderer: GLES 2
+Renderer: Compatibility
 
-Check out this demo on the asset library: https://godotengine.org/asset-library/asset/888
+Check out this demo on the asset library: https://godotengine.org/asset-library/asset/2726
 
 ## Screenshots
 
